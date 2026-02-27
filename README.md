@@ -11,19 +11,22 @@
 
 ---
 
-## 🛠 Tech Stack
-
+## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap,mysql,git,github,visualstudio,vscode,postman" />
+</p>
+
+---
+
+## 🏗 Architecture & Principles
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet" />
+</p>
+
+<p align="center">
+  SOLID • Clean Architecture • 3-Tier • REST APIs • JWT • EF Core • LINQ • Agile
 </p>
 
 
